@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marczak01
+- 👀 I’m interested in Python/Django projects
+- 🌱 I’m currently learning Django, React.js
+- 💞️ I’m looking to collaborate on Django projects
+- 📫 How to reach me -> marczak01@icloud.com
