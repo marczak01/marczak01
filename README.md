@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marczak01
-- 👀 I’m interested in Python/Django and projects which uses SQL
-- 🌱 I’m currently learning Python/Django and working with SQL,
+- 👀 I’m interested in Python/Django and projects.
+- 🌱 I’m currently learning Python/Django.
 - 💞️ I’m looking to collaborate on projects based on my tech set.
 - 📫 How to reach me -> marczak01@icloud.com
